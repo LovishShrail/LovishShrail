@@ -1,21 +1,21 @@
-<h1 align="left">Hey there! Welcome to my corner of GitHub! 😊</h1>
+<h1 align="left">Hey there! Welcome to my corner of GitHub! 👋</h1>
 <br>
 
 <p align="left">I'm Lovish Shrail, a developer on a journey to learn, build, and grow!</p>
 
-<br>
 
-<h3 align="left">About me</h3>
 
-<br>
+<h3 align="left">📝 About me</h3>
 
-<p align="left">🎓 Currently pursuing a B TECH. degree in Mathematics and Computing from NIT, HAMIRPUR.<br><br>🎯 I’m passionate about full-stack development, with a focus on frontend, backend, and blockchain technologies.</p>
 
-<br>
+
+<p align="left">🎓 Currently pursuing B TECH. degree in Mathematics and Computing from NIT, HAMIRPUR.<br>🎯 I’m passionate about full-stack development, with a focus on frontend, backend, and blockchain technologies.</p>
+
+
 
 <h3 align="left">🔧 Languages and Frameworks:</h3>
 
-<br>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
@@ -49,11 +49,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" height="40" alt="solidity logo" />
 </div>
 
-<br>
+
 
 <h3 align="left">🌐 Connect with me</h3>
 
-<br>
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lovish-shrail-55a8b6269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
@@ -68,18 +68,21 @@
   <a href="https://www.instagram.com/lovish_shrail?igsh=MXI2aXR6aWx4OThjcw==" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  <a href="lovishshrail10@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
+  <a href="mailto:lovishshrail10@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+</a>
+
 </div>
 
 <br>
+
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LovishShrail&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
-<br>
+
 
 <div align="center">
 </div>
